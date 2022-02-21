@@ -1,0 +1,1 @@
+{"version":3,"file":"tokenAuth.js","sourceRoot":"","sources":["../../src/secure/tokenAuth.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AACA,kFAAoE;AAEpE,SAAsB,SAAS,CAAC,KAAa;;QAC5C,IAAI;YACH,MAAM,IAAI,GAAG,MAAM,cAAc,CAAC,cAAc,CAAC,KAAK,CAAC,CAAC;YACxD,OAAO,IAAI,CAAC,MAAM,EAAE,CAAC;SACrB;QAAC,OAAO,CAAC,EAAE;YACX,MAAM,CAAC,CAAC;SACR;IACF,CAAC;CAAA;AAPD,8BAOC"}

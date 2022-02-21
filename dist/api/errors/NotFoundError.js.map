@@ -1,0 +1,1 @@
+{"version":3,"file":"NotFoundError.js","sourceRoot":"","sources":["../../../src/api/errors/NotFoundError.ts"],"names":[],"mappings":";;;;;;AAAA,8DAAyC;AAEzC,SAAgB,aAAa;IAC5B,OAAO,IAAI,eAAQ,CAAC,EAAE,IAAI,EAAE,WAAW,EAAE,OAAO,EAAE,WAAW,EAAE,EAAE,GAAG,CAAC,CAAC;AACvE,CAAC;AAFD,sCAEC"}
