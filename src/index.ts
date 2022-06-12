@@ -13,6 +13,7 @@ console.log("WELCOME TO EXTREME WALLET");
 Database.getInstance()
 	.Init(config.mysql.ddbb, config.mysql.user, config.mysql.pass, {
 		host: config.mysql.host,
+		port: config.mysql.port,
 		dialect: "mysql",
 
 		logging: false,

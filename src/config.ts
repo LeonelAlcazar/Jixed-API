@@ -19,6 +19,7 @@ export default {
 	},
 	mysql: {
 		host: process.env.MYSQL_HOST || "localhost",
+		port: process.env.MYSQL_PORT ? parseInt(process.env.MYSQL_PORT) : 3306,
 		user: process.env.MYSQL_USER || "root",
 		pass: process.env.MYSQL_PASS || "root",
 		ddbb: process.env.MYSQL_DDBB || "exwallet",
